@@ -1,61 +1,6 @@
     <!-- rts footer two area wrapper -->
     <div class="rts-footer-area footer-two mt-dec-footer-map bg-footer-two bg_image">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-12">
-                    <div class="map-area-main-wrapper">
-                        <div class="row">
-                            <div class="col-lg-7">
-                                <div class="map-area-main-footer-two">
-                                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3532.1755718740593!2d85.3200113!3d27.7090312!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39eb1980!2sKathmandu!5e0!3m2!1sen!2snp!4v1738651440174!5m2!1sen!2snp" width="625" height="625" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-                                </div>
-                            </div>
-                            <div class="col-lg-5">
-                                <div class="map-information-2-footer">
-                                    <h5 class="title-main">Contact Us</h5>
-                                    <img src="assets/images/footer/02.svg" alt="line" class="line">
-                                    <div class="contact-information-main-wrapper">
-                                        <div class="signle-contact-information">
-                                            <div class="icon">
-                                                <i class="fa-solid fa-phone"></i>
-                                            </div>
-                                            <div class="information-wrapper">
-                                                <span>Call Us</span>
-                                                <a href="tel:+977-1-1234567">
-                                                    <h6 class="title">+977-1-1234567</h6>
-                                                </a>
-                                            </div>
-                                        </div>
-                                        <div class="signle-contact-information">
-                                            <div class="icon">
-                                                <i class="fa-regular fa-envelope"></i>
-                                            </div>
-                                            <div class="information-wrapper">
-                                                <span>Email Us</span>
-                                                <a href="mailto:info@asianeducationcoalition.org">
-                                                    <h6 class="title">info@asianeducationcoalition.org</h6>
-                                                </a>
-                                            </div>
-                                        </div>
-                                        <div class="signle-contact-information">
-                                            <div class="icon">
-                                                <i class="fa-sharp fa-solid fa-location-dot"></i>
-                                            </div>
-                                            <div class="information-wrapper">
-                                                <span>Our Location</span>
-                                                <a href="#">
-                                                    <h6 class="title">Kathmandu, Nepal</h6>
-                                                </a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
+
         <div class="container bg-shape-f1">
             <!-- rts footer area -->
             <div class="row pt--120 pt_sm--80 pb--80 pb_sm--40">

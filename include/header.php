@@ -74,8 +74,7 @@
                                 </div>
                                 <div class="button-area">
                                     <button class="search" id="search"><i class="far fa-search"></i></button>
-                                    <a href="contact.php" class="rts-btn btn-primary ml--20 ml_sm--5 header-one-btn quote-btn">Get
-                                        Quote</a>
+                                    <a href="contact.php" class="rts-btn btn-primary ml--20 ml_sm--5 header-one-btn quote-btn">Join Now</a>
                                     <button id="menu-btn" class="menu-btn menu ml--20 ml_sm--5">
                                         <img class="menu-light" src="assets/images/icons/01.svg" alt="Menu-icon">
                                     </button>

@@ -45,8 +45,8 @@
 /* Default  */
 @import url("https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&family=Red+Hat+Display:ital,wght@0,300..900;1,300..900&display=swap");
 :root {
-  --color-primary: #20282D;
-  --color-secondary: #1F1F25;
+  --color-primary: #003479;
+  --color-secondary: #003479;
   --color-blue: #0b4df5;
   --color-sky: #82b440;
   --color-body: #5D666F;
@@ -10510,7 +10510,7 @@ header.header--sticky.sticky .nav-area ul li.main-nav {
   }
 }
 
-.about-invena-large-image {
+.about-IPNFoundation-large-image {
   margin-top: -120px;
 }
 

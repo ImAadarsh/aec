@@ -34,7 +34,7 @@
     </div>
     <!-- about us area wrapper main end -->
 
-    <div class="about-invena-large-image">
+    <div class="about-IPNFoundation-large-image">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
@@ -59,7 +59,7 @@
                         <div class="counter-about-area">
                             <h2 class="counter title"><span class="odometer" data-count="25">00</span>+
                             </h2>
-                            <span>Year of experience</span>
+                            <span>Years of Collaboration</span>
                         </div>
                     </div>
                 </div>
@@ -135,7 +135,7 @@
                                 <div class="team-single-one-start">
                                     <div class="team-image-area">
                                         <a href="team-details.php">
-                                            <img src="assets/images/team/04.webp" alt="Business_Team_single">
+                                            <img src="assets/images/team/04.webp" alt="Education_Leader">
                                             <div class="team-social">
                                                 <div class="main">
                                                     <i class="fal fa-plus"></i>
@@ -160,7 +160,7 @@
                                 <div class="team-single-one-start">
                                     <div class="team-image-area">
                                         <a href="team-details.php">
-                                            <img src="assets/images/team/05.webp" alt="Business_Team_single">
+                                            <img src="assets/images/team/05.webp" alt="Education_Leader">
                                             <div class="team-social">
                                                 <div class="main">
                                                     <i class="fal fa-plus"></i>
@@ -185,7 +185,7 @@
                                 <div class="team-single-one-start">
                                     <div class="team-image-area">
                                         <a href="team-details.php">
-                                            <img src="assets/images/team/06.webp" alt="Business_Team_single">
+                                            <img src="assets/images/team/06.webp" alt="Education_Leader">
                                             <div class="team-social">
                                                 <div class="main">
                                                     <i class="fal fa-plus"></i>
@@ -210,7 +210,7 @@
                                 <div class="team-single-one-start">
                                     <div class="team-image-area">
                                         <a href="team-details.php">
-                                            <img src="assets/images/team/07.webp" alt="Business_Team_single">
+                                            <img src="assets/images/team/07.webp" alt="Education_Leader">
                                             <div class="team-social">
                                                 <div class="main">
                                                     <i class="fal fa-plus"></i>
@@ -235,7 +235,7 @@
                                 <div class="team-single-one-start">
                                     <div class="team-image-area">
                                         <a href="team-details.php">
-                                            <img src="assets/images/team/07.webp" alt="Business_Team_single">
+                                            <img src="assets/images/team/07.webp" alt="Education_Leader">
                                             <div class="team-social">
                                                 <div class="main">
                                                     <i class="fal fa-plus"></i>
@@ -273,22 +273,18 @@
                 <div class="col-lg-6">
                     <div class="consultancy-style-one">
                         <div class="title-style-two mb--40 left">
-                            <span class="bg-content">Business Goal</span>
-                            <span class="pre">JUST A CONSULTANCY</span>
-                            <h2 class="title rts-text-anime-style-1">We know how to manage <br>
-                                business globally
-                            </h2>
+                            <span class="bg-content">Our Mission</span>
+                            <span class="pre">Strategic Cooperation</span>
+                            <h2 class="title rts-text-anime-style-1">Facilitating Strategic Cooperation <br> in School Education</h2>
                         </div>
                         <div class="signle-consultancy mb--30">
                             <div class="icon">
                                 <img src="assets/images/about/icons/01.svg" alt="">
                             </div>
                             <div class="information">
-                                <h4 class="title">Best Business Consulting</h4>
+                                <h4 class="title">Knowledge and Resource Exchange</h4>
                                 <p class="disc">
-                                    Fusce condimentum mattis placerat odio donec lacus porta torquent, mauris
-                                    gravida
-                                    rutrum
+                                    Promoting high-impact knowledge and resource exchange among Asian nations to enhance educational outcomes.
                                 </p>
                             </div>
                         </div>
@@ -297,11 +293,9 @@
                                 <img src="assets/images/about/icons/02.svg" alt="">
                             </div>
                             <div class="information">
-                                <h4 class="title">24/7 Customer Support</h4>
+                                <h4 class="title">Innovation and Integration</h4>
                                 <p class="disc">
-                                    Fusce condimentum mattis placerat odio donec lacus porta torquent, mauris
-                                    gravida
-                                    rutrum
+                                    Driving pedagogical innovation and EdTech integration to prepare students for the challenges of the 21st century.
                                 </p>
                             </div>
                         </div>
@@ -340,8 +334,8 @@
                     <div class="title-area-between-wrapper">
                         <div class="title-style-two mb--40 left">
                             <span class="bg-content">Review</span>
-                            <span class="pre">Our Testimonial</span>
-                            <h2 class="title rts-text-anime-style-1">Our Client Reviews
+                            <span class="pre">Leader Reviews</span>
+                            <h2 class="title rts-text-anime-style-1">Leader Reviews
                             </h2>
                         </div>
                         <div class="pagination-wrapper">
@@ -366,15 +360,11 @@
                                         </div>
                                         <div class="right-content-testimonials">
                                             <p class="disc">
-                                                I can't recommend The Gourmet Haven enough. It's a place for special
-                                                occasions, date
-                                                nights, or whenever you're in the mood for a culinary adventure. The
-                                                combination of
-                                                exceptional.
+                                                "The Asian Education Coalition has opened new doors for collaboration and innovation in our school. Our teachers and students now have access to resources and expertise from across Asia."
                                             </p>
                                             <div class="name-desig">
-                                                <h6 class="title">William Henry</h6>
-                                                <p>Designer at <b>Vertex Agency</b></p>
+                                                <h6 class="title">Dr. Maya Singh</h6>
+                                                <p>Principal, Lotus International School</p>
                                             </div>
                                         </div>
                                     </div>
@@ -386,15 +376,11 @@
                                         </div>
                                         <div class="right-content-testimonials">
                                             <p class="disc">
-                                                I can't recommend The Gourmet Haven enough. It's a place for special
-                                                occasions, date
-                                                nights, or whenever you're in the mood for a culinary adventure. The
-                                                combination of
-                                                exceptional.
+                                                "Being part of the AEC has empowered our educators to adopt best practices and innovative teaching methods. The sense of community and shared purpose is truly inspiring."
                                             </p>
                                             <div class="name-desig">
-                                                <h6 class="title">William Henry</h6>
-                                                <p>Designer at <b>Vertex Agency</b></p>
+                                                <h6 class="title">Mr. Kenji Watanabe</h6>
+                                                <p>Education Policy Expert, Japan</p>
                                             </div>
                                         </div>
                                     </div>
@@ -406,15 +392,11 @@
                                         </div>
                                         <div class="right-content-testimonials">
                                             <p class="disc">
-                                                I can't recommend The Gourmet Haven enough. It's a place for special
-                                                occasions, date
-                                                nights, or whenever you're in the mood for a culinary adventure. The
-                                                combination of
-                                                exceptional.
+                                                "The coalition's commitment to equity and inclusion has made a real difference in our region. We are proud to be part of a movement that is shaping the future of education in Asia."
                                             </p>
                                             <div class="name-desig">
-                                                <h6 class="title">William Henry</h6>
-                                                <p>Designer at <b>Vertex Agency</b></p>
+                                                <h6 class="title">Fatima Al Mansouri</h6>
+                                                <p>Coalition Founding Member, UAE</p>
                                             </div>
                                         </div>
                                     </div>
@@ -508,10 +490,7 @@
     </div>
 
     <!-- rtl btn area start -->
-    <div class="rtl-ltr-switcher-btn">
-        <span class="rtl show">View RTL</span>
-        <span class="ltr">View LTR</span>
-    </div>
+
     <!-- rtl btn area end -->
 
     <!-- progress area start -->

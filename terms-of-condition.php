@@ -47,7 +47,7 @@
                                 growth, enhance efficiency, and secure your digital assets.
                             </p>
                             <p class="disc">
-                                Invena works with businesses of all sizes, from small startups to large enterprises.
+                                IPNFoundation works with businesses of all sizes, from small startups to large enterprises.
                                 We tailor our solutions to meet the specific needs and budget of each client offers a
                                 wide range of IT services. As we invest heavily in ongoing training and professional
                                 development for our team. We also participate in industry conferences, maintain
@@ -55,7 +55,7 @@
                                 development projects.
                             </p>
                             <p class="disc">
-                                Invena works with businesses of all sizes, from small startups to large enterprises.
+                                IPNFoundation works with businesses of all sizes, from small startups to large enterprises.
                                 We tailor our solutions to meet the specific needs and budget of each client offers a
                                 wide range of IT services. As we invest heavily in ongoing training and professional
                                 development for our team. We also participate in industry conferences, maintain
@@ -82,7 +82,7 @@
                                 growth, enhance efficiency, and secure your digital assets.
                             </p>
                             <p class="disc">
-                                Invena works with businesses of all sizes, from small startups to large enterprises.
+                                IPNFoundation works with businesses of all sizes, from small startups to large enterprises.
                                 We tailor our solutions to meet the specific needs and budget of each client offers a
                                 wide range of IT services. As we invest heavily in ongoing training and professional
                                 development for our team. We also participate in industry conferences, maintain
@@ -145,10 +145,7 @@
     </div>
 
     <!-- rtl btn area start -->
-    <div class="rtl-ltr-switcher-btn">
-        <span class="rtl show">View RTL</span>
-        <span class="ltr">View LTR</span>
-    </div>
+
     <!-- rtl btn area end -->
 
     <!-- progress area start -->

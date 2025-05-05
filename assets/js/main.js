@@ -482,10 +482,10 @@
       });
       $(document).ready(function () {
         var swiper = new Swiper(".mySwiper-service-1", {
-          slidesPerView: 3,
+          slidesPerView: 2,
           spaceBetween: 30,
-          loop: true,
-          centeredSlides: true,
+          loop: false,
+          slidesPerGroup: 2,
           speed: 1000,
           pagination: {
             el: ".swiper-pagination",
@@ -493,18 +493,16 @@
           },
           breakpoints: {
             1500: {
-              slidesPerView: 3,
+              slidesPerView: 2,
             },
             1300: {
-              slidesPerView: 3,
+              slidesPerView: 2,
             },
             991: {
               slidesPerView: 2,
-              centeredSlides: false,
             },
             767: {
-              slidesPerView: 2,
-              centeredSlides: false,
+              slidesPerView: 1,
             },
             575: {
               slidesPerView: 1,

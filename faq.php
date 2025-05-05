@@ -220,10 +220,7 @@
     </div>
 
     <!-- rtl btn area start -->
-    <div class="rtl-ltr-switcher-btn">
-        <span class="rtl show">View RTL</span>
-        <span class="ltr">View LTR</span>
-    </div>
+
     <!-- rtl btn area end -->
 
     <!-- progress area start -->

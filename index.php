@@ -21,9 +21,9 @@
                                 <div class="col-lg-12">
                                     <div class="banner-inner-two-content">
                                         <p class="pre-title"><span>Welcome!</span> Asian Education Coalition</p>
-                                        <h1 class="title">Building a Unified and Future-Ready <br> Educational Framework Across Asia</h1>
+                                        <h1 class="title">Asian Education Coalition (AEC)</h1>
                                         <p class="disc">
-                                            Launched at the India-Nepal Summit 2025 in Kathmandu, the Asian Education Coalition (AEC) is a groundbreaking initiative spearheaded by the IPN Foundation to build a unified and future-ready educational framework across Asia.
+                                            Launched at the India-Nepal Summit 2025 in Kathmandu, the Asian Education Coalition (AEC) is a groundbreaking initiative spearheaded by the IPN Foundation to build a unified and future-ready educational framework across Asia. The Coalition brings together schools, educators, policymakers, EdTech leaders, and thought leaders to co-create solutions for shared challenges and opportunities in school education.
                                         </p>
                                         <a href="#" class="rts-btn btn-primary btn-white">Join the Coalition</a>
                                     </div>
@@ -55,9 +55,9 @@
                                 <div class="col-lg-12">
                                     <div class="banner-inner-two-content">
                                         <p class="pre-title"><span>Welcome!</span> Asian Education Coalition</p>
-                                        <h1 class="title">Nurturing a Connected and Collaborative <br> Educational Ecosystem</h1>
+                                        <h1 class="title">Vision</h1>
                                         <p class="disc">
-                                            The Coalition brings together schools, educators, policymakers, EdTech leaders, and thought leaders to co-create solutions for shared challenges and opportunities in school education.
+                                            To nurture a connected and collaborative educational ecosystem across Asia that empowers every learner, educator, and institution through regional solidarity, innovation, and inclusive practices.
                                         </p>
                                         <a href="#" class="rts-btn btn-primary btn-white">Learn More</a>
                                     </div>
@@ -89,9 +89,16 @@
                                 <div class="col-lg-12">
                                     <div class="banner-inner-two-content">
                                         <p class="pre-title"><span>Welcome!</span> Asian Education Coalition</p>
-                                        <h1 class="title">Strategic Cooperation for <br> School Education Excellence</h1>
+                                        <h1 class="title">Mission</h1>
                                         <p class="disc">
-                                            Facilitating strategic cooperation among Asian nations in the field of school education through knowledge exchange, innovation, and inclusive practices.
+                                            To facilitate strategic cooperation among Asian nations in the field of school education by promoting:
+                                            <ul>
+                                                <li>High-impact knowledge and resource exchange</li>
+                                                <li>Pedagogical innovation and EdTech integration</li>
+                                                <li>Professional development</li>
+                                                <li>Policy alignment and research</li>
+                                                <li>Equity, inclusion, and sustainability in education</li>
+                                            </ul>
                                         </p>
                                         <a href="#" class="rts-btn btn-primary btn-white">Get Involved</a>
                                     </div>
@@ -136,33 +143,33 @@
                         <div class="counter-about-area">
                             <h2 class="counter title"><span class="odometer" data-count="25">00</span>+
                             </h2>
-                            <span>Year of experience</span>
+                            <span>Years of Collaboration</span>
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-6 mt_sm--80 mt_md--80">
                     <div class="about-inner-content-two">
                         <div class="title-style-two left">
-                            <span class="bg-content">About AEC</span>
+                            <span class="bg-content">Our Vision</span>
                             <span class="pre">More About Us</span>
-                            <h2 class="title rts-text-anime-style-1">Empowering Every Learner, Educator, <br> and Institution Through Regional Solidarity</h2>
+                            <h2 class="title rts-text-anime-style-1">Nurturing a Connected and Collaborative <br> Educational Ecosystem</h2>
                         </div>
                         <div class="about-between-wrapper">
                             <p class="disc">
-                                The Asian Education Coalition (AEC) is a movement to reimagine school education across Asia. It offers a platform rooted in shared values, mutual respect, and collective ambition to build the future of learning.
+                                To nurture a connected and collaborative educational ecosystem across Asia that empowers every learner, educator, and institution through regional solidarity, innovation, and inclusive practices.
                             </p>
                             <div class="check-wrapper-area">
                                 <div class="single-check">
                                     <i class="fa-solid fa-circle-check"></i>
-                                    <p>Cross-Border Collaboration</p>
+                                    <p>High-impact knowledge and resource exchange</p>
                                 </div>
                                 <div class="single-check">
                                     <i class="fa-solid fa-circle-check"></i>
-                                    <p>21st-Century Pedagogies & Innovation</p>
+                                    <p>Pedagogical innovation and EdTech integration</p>
                                 </div>
                                 <div class="single-check">
                                     <i class="fa-solid fa-circle-check"></i>
-                                    <p>Capacity Building & Leadership Development</p>
+                                    <p>Professional development and capacity building</p>
                                 </div>
                             </div>
                         </div>
@@ -174,12 +181,12 @@
                                 <div class="information">
                                     <span>Call us anytime</span>
                                     <a href="#">
-                                        <h6 class="title">+256 56778.5678</h6>
+                                        <h6 class="title">info@ipnfoundation.org</h6>
                                     </a>
                                 </div>
                             </div>
                             <div class="sign-area">
-                                <img src="assets/images/about/sign.svg" alt="">
+                                <img src="aec.svg" alt="">
                             </div>
                         </div>
                     </div>
@@ -200,10 +207,9 @@
             <div class="row">
                 <div class="col-lg-12">
                     <div class="title-style-two center">
-                        <span class="bg-content">Services</span>
-                        <span class="pre">our Service</span>
-                        <h2 class="title rts-text-anime-style-1">High Quality Services
-                        </h2>
+                        <span class="bg-content">AEC Highlights</span>
+                        <span class="pre">What We Offer</span>
+                        <h2 class="title rts-text-anime-style-1">Key Pillars & Benefits</h2>
                     </div>
                 </div>
             </div>
@@ -223,11 +229,9 @@
                                                         <img src="assets/images/service/icons/01.svg" alt="service">
                                                     </div>
                                                     <div class="information">
-                                                        <h5 class="title">Business Planning</h5>
+                                                        <h5 class="title">Membership & Governance</h5>
                                                         <p class="disc">
-                                                            Sagitis himos pulvinar morb socis laoreet posuere enim non
-                                                            auctor etiam
-                                                            pretium libero
+                                                            The Asian Education Coalition (AEC) unites founding members from India, Nepal, Qatar, UAE, Sri Lanka, and other Asian nations. Coordinated by the IPN Foundation, the coalition operates with rotating leadership and annual thematic working groups, ensuring diverse representation and dynamic governance. This collaborative structure empowers members to actively shape the coalition's direction and priorities, fostering a sense of ownership and shared purpose across the region.
                                                         </p>
                                                         <a href="service-details.php" class="arrow-right">
                                                             <i class="fa-sharp fa-solid fa-arrow-right"></i>
@@ -242,11 +246,9 @@
                                                         <img src="assets/images/service/icons/02.svg" alt="service">
                                                     </div>
                                                     <div class="information">
-                                                        <h5 class="title">Process Development</h5>
+                                                        <h5 class="title">Impact Goals (2025–2030)</h5>
                                                         <p class="disc">
-                                                            Sagitis himos pulvinar morb socis laoreet posuere enim non
-                                                            auctor etiam
-                                                            pretium libero
+                                                            By 2030, AEC aims to reach over 100,000 schools across Asia, engage 5 million educators in capacity-building, and launch more than 10 cross-border academic partnerships annually. The coalition is committed to developing a Pan-Asian Education Resource Hub and contributing to regional and global education dialogues, driving meaningful change and innovation in school education throughout the continent.
                                                         </p>
                                                         <a href="service-details.php" class="arrow-right">
                                                             <i class="fa-sharp fa-solid fa-arrow-right"></i>
@@ -261,32 +263,11 @@
                                                         <img src="assets/images/service/icons/03.svg" alt="service">
                                                     </div>
                                                     <div class="information">
-                                                        <h5 class="title">Strategy & Planning</h5>
+                                                        <h5 class="title">Strategic Benefits for Members</h5>
                                                         <p class="disc">
-                                                            Sagitis himos pulvinar morb socis laoreet posuere enim non
-                                                            auctor etiam
-                                                            pretium libero
+                                                            Members of the AEC gain access to a continental network of progressive educators, exposure to global innovations, and opportunities for AEC-endorsed certifications and awards. Priority access to research grants and pilot projects further empowers members to lead educational transformation, ensuring they remain at the forefront of best practices and emerging trends in school education across Asia.
                                                         </p>
                                                         <a href="service-details.php" class="arrow-right">
-                                                            <i class="fa-sharp fa-solid fa-arrow-right"></i>
-                                                            <span>Read More</span>
-                                                        </a>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="swiper-slide">
-                                                <div class="single-service-signle-wrapper">
-                                                    <div class="icons">
-                                                        <img src="assets/images/service/icons/01.svg" alt="service">
-                                                    </div>
-                                                    <div class="information">
-                                                        <h5 class="title">Business Goal</h5>
-                                                        <p class="disc">
-                                                            Sagitis himos pulvinar morb socis laoreet posuere enim non
-                                                            auctor etiam
-                                                            pretium libero
-                                                        </p>
-                                                        <a href="#" class="arrow-right">
                                                             <i class="fa-sharp fa-solid fa-arrow-right"></i>
                                                             <span>Read More</span>
                                                         </a>
@@ -317,10 +298,9 @@
                             <div class="col-lg-12">
                                 <div class="cta-style-two-area">
                                     <h3 class="title rts-text-anime-style-1">
-                                        Let's discuss about how we can help <br>
-                                        make your business better
+                                        Let's discuss how we can shape the future of education together
                                     </h3>
-                                    <a href="contact.php" class="rts-btn btn-primary btn-white">Lets Work Together</a>
+                                    <a href="contact.php" class="rts-btn btn-primary btn-white">Join the Movement</a>
                                 </div>
                             </div>
                         </div>
@@ -340,22 +320,21 @@
                 <div class="col-lg-6">
                     <div class="consultancy-style-one">
                         <div class="title-style-two mb--40 left">
-                            <span class="bg-content">Business Goal</span>
-                            <span class="pre">JUST A CONSULTANCY</span>
-                            <h2 class="title rts-text-anime-style-1">We know how to manage <br>
-                                business globally
-                            </h2>
+                            <span class="bg-content">Conclusion</span>
+                            <span class="pre">The Future of Learning</span>
+                            <h2 class="title rts-text-anime-style-1">The Asian Education Coalition is a movement to reimagine school education across Asia.</h2>
                         </div>
+                        <p class="disc">
+                            It offers a platform rooted in shared values, mutual respect, and collective ambition to build the future of learning.
+                        </p>
                         <div class="signle-consultancy mb--30">
                             <div class="icon">
                                 <img src="assets/images/about/icons/01.svg" alt="">
                             </div>
                             <div class="information">
-                                <h4 class="title">Best Business Consulting</h4>
+                                <h4 class="title">Collaborative Educational Initiatives</h4>
                                 <p class="disc">
-                                    Fusce condimentum mattis placerat odio donec lacus porta torquent, mauris
-                                    gravida
-                                    rutrum
+                                    We foster partnerships and collaborative projects that drive educational innovation and impact across Asia, empowering schools and educators to achieve more together.
                                 </p>
                             </div>
                         </div>
@@ -364,11 +343,9 @@
                                 <img src="assets/images/about/icons/02.svg" alt="">
                             </div>
                             <div class="information">
-                                <h4 class="title">24/7 Customer Support</h4>
+                                <h4 class="title">Support for Educators & Institutions</h4>
                                 <p class="disc">
-                                    Fusce condimentum mattis placerat odio donec lacus porta torquent, mauris
-                                    gravida
-                                    rutrum
+                                    Our coalition provides ongoing support, resources, and professional development to educators and institutions, ensuring sustainable growth and excellence in school education.
                                 </p>
                             </div>
                         </div>
@@ -413,7 +390,7 @@
                         <div class="counter-details">
                             <h2 class="counter title"><span class="odometer" data-count="199">00</span>+
                             </h2>
-                            <p class="disc">Successful Projects</p>
+                            <p class="disc">Educational Initiatives</p>
                         </div>
                     </div>
                 </div>
@@ -427,7 +404,7 @@
                         <div class="counter-details">
                             <h2 class="counter title"><span class="odometer" data-count="300">00</span>+
                             </h2>
-                            <p class="disc">Media Activities</p>
+                            <p class="disc">Community Engagements</p>
                         </div>
                     </div>
                 </div>
@@ -441,7 +418,7 @@
                         <div class="counter-details">
                             <h2 class="counter title"><span class="odometer" data-count="699">00</span>+
                             </h2>
-                            <p class="disc">Skilled Experts</p>
+                            <p class="disc">Skilled Educators</p>
                         </div>
                     </div>
                 </div>
@@ -455,7 +432,7 @@
                         <div class="counter-details">
                             <h2 class="counter title"><span class="odometer" data-count="120">00</span>+
                             </h2>
-                            <p class="disc">Happy Clients</p>
+                            <p class="disc">Partner Institutions</p>
                         </div>
                     </div>
                 </div>
@@ -472,11 +449,9 @@
                 <div class="col-lg-12">
                     <div class="title-area-between-wrapper-gallery-project">
                         <div class="title-style-two mb--40 left">
-                            <span class="bg-content">Projects</span>
-                            <span class="pre">Popular Projects</span>
-                            <h2 class="title rts-text-anime-style-1">Projects
-                                Our Completed Projects
-                            </h2>
+                            <span class="bg-content">Our Initiatives</span>
+                            <span class="pre">Featured Initiatives</span>
+                            <h2 class="title rts-text-anime-style-1">Showcasing Our Collaborative Initiatives</h2>
                         </div>
 
                         <div class="swiper-paginations"></div>
@@ -496,9 +471,9 @@
                                         </a>
                                         <div class="inner-content">
                                             <a href="project-details.php">
-                                                <h5 class="title">Business Growth</h5>
+                                                <h5 class="title">Educational Growth</h5>
                                             </a>
-                                            <span>Business Strategy</span>
+                                            <span>Education Strategy</span>
                                         </div>
                                     </div>
                                 </div>
@@ -511,7 +486,7 @@
                                             <a href="project-details.php">
                                                 <h5 class="title">Startup Solution</h5>
                                             </a>
-                                            <span>Business Strategy</span>
+                                            <span>Education Strategy</span>
                                         </div>
                                     </div>
                                 </div>
@@ -524,7 +499,7 @@
                                             <a href="project-details.php">
                                                 <h5 class="title">Marketing Growth</h5>
                                             </a>
-                                            <span>Business Strategy</span>
+                                            <span>Education Strategy</span>
                                         </div>
                                     </div>
                                 </div>
@@ -549,12 +524,12 @@
             </div>
             <div class="row">
                 <div class="client-wrapper-one">
-                    <a href="#" data-animation="fadeInUp" data-delay="0.1" data-duration="1.2"><img src="assets/images/client/1.webp" alt="business_invena"></a>
-                    <a href="#" data-animation="fadeInUp" data-delay="0.2" data-duration="1.2"><img src="assets/images/client/2.webp" alt="business_invena"></a>
-                    <a href="#" data-animation="fadeInUp" data-delay="0.3" data-duration="1.2"><img src="assets/images/client/3.webp" alt="business_invena"></a>
-                    <a href="#" data-animation="fadeInUp" data-delay="0.4" data-duration="1.2"><img src="assets/images/client/4.webp" alt="business_invena"></a>
-                    <a href="#" data-animation="fadeInUp" data-delay="0.5" data-duration="1.2"><img src="assets/images/client/5.webp" alt="business_invena"></a>
-                    <a href="#" data-animation="fadeInUp" data-delay="0.6" data-duration="1.2"><img src="assets/images/client/6.webp" alt="business_invena"></a>
+                    <a href="#" data-animation="fadeInUp" data-delay="0.1" data-duration="1.2"><img src="assets/images/client/1.webp" alt="business_IPNFoundation"></a>
+                    <a href="#" data-animation="fadeInUp" data-delay="0.2" data-duration="1.2"><img src="assets/images/client/2.webp" alt="business_IPNFoundation"></a>
+                    <a href="#" data-animation="fadeInUp" data-delay="0.3" data-duration="1.2"><img src="assets/images/client/3.webp" alt="business_IPNFoundation"></a>
+                    <a href="#" data-animation="fadeInUp" data-delay="0.4" data-duration="1.2"><img src="assets/images/client/4.webp" alt="business_IPNFoundation"></a>
+                    <a href="#" data-animation="fadeInUp" data-delay="0.5" data-duration="1.2"><img src="assets/images/client/5.webp" alt="business_IPNFoundation"></a>
+                    <a href="#" data-animation="fadeInUp" data-delay="0.6" data-duration="1.2"><img src="assets/images/client/6.webp" alt="business_IPNFoundation"></a>
                 </div>
             </div>
         </div>
@@ -565,9 +540,9 @@
         <div class="container">
             <div class="row">
                 <div class="title-style-two center">
-                    <span class="bg-content">Members</span>
-                    <span class="pre">Expert Members</span>
-                    <h2 class="title rts-text-anime-style-1">Professionals Team
+                    <span class="bg-content">Leadership</span>
+                    <span class="pre">Leaders</span>
+                    <h2 class="title rts-text-anime-style-1">Meet Our Leaders
                     </h2>
                 </div>
             </div>
@@ -719,8 +694,8 @@
                     <div class="title-area-between-wrapper" dir="ltr">
                         <div class="title-style-two mb--40 left">
                             <span class="bg-content">Review</span>
-                            <span class="pre">Our Testimonial</span>
-                            <h2 class="title ">Our Client Reviews
+                            <span class="pre">Leader Reviews</span>
+                            <h2 class="title ">Leader Reviews
                             </h2>
                         </div>
                         <div class="pagination-wrapper">
@@ -745,15 +720,11 @@
                                         </div>
                                         <div class="right-content-testimonials">
                                             <p class="disc">
-                                                I can't recommend The Gourmet Haven enough. It's a place for special
-                                                occasions, date
-                                                nights, or whenever you're in the mood for a culinary adventure. The
-                                                combination of
-                                                exceptional.
+                                                "The Asian Education Coalition has opened new doors for collaboration and innovation in our school. Our teachers and students now have access to resources and expertise from across Asia."
                                             </p>
                                             <div class="name-desig">
-                                                <h6 class="title">William Henry</h6>
-                                                <p>Designer at <b>Vertex Agency</b></p>
+                                                <h6 class="title">Dr. Maya Singh</h6>
+                                                <p>Principal, Lotus International School</p>
                                             </div>
                                         </div>
                                     </div>
@@ -765,15 +736,11 @@
                                         </div>
                                         <div class="right-content-testimonials">
                                             <p class="disc">
-                                                I can't recommend The Gourmet Haven enough. It's a place for special
-                                                occasions, date
-                                                nights, or whenever you're in the mood for a culinary adventure. The
-                                                combination of
-                                                exceptional.
+                                                "Being part of the AEC has empowered our educators to adopt best practices and innovative teaching methods. The sense of community and shared purpose is truly inspiring."
                                             </p>
                                             <div class="name-desig">
-                                                <h6 class="title">William Henry</h6>
-                                                <p>Designer at <b>Vertex Agency</b></p>
+                                                <h6 class="title">Mr. Kenji Watanabe</h6>
+                                                <p>Education Policy Expert, Japan</p>
                                             </div>
                                         </div>
                                     </div>
@@ -785,15 +752,11 @@
                                         </div>
                                         <div class="right-content-testimonials">
                                             <p class="disc">
-                                                I can't recommend The Gourmet Haven enough. It's a place for special
-                                                occasions, date
-                                                nights, or whenever you're in the mood for a culinary adventure. The
-                                                combination of
-                                                exceptional.
+                                                "The coalition's commitment to equity and inclusion has made a real difference in our region. We are proud to be part of a movement that is shaping the future of education in Asia."
                                             </p>
                                             <div class="name-desig">
-                                                <h6 class="title">William Henry</h6>
-                                                <p>Designer at <b>Vertex Agency</b></p>
+                                                <h6 class="title">Fatima Al Mansouri</h6>
+                                                <p>Coalition Founding Member, UAE</p>
                                             </div>
                                         </div>
                                     </div>
@@ -816,26 +779,29 @@
                 <div class="col-lg-7">
                     <div class="appoinment-wrapper-one-start">
                         <div class="title-style-two mb--40 left">
-                            <span class="bg-content">Hello</span>
-                            <span class="pre">Make An Appointment</span>
-                            <h2 class="title">Request a free quote</h2>
+                            <span class="bg-content">Join Us</span>
+                            <span class="pre">Join the Coalition</span>
+                            <h2 class="title">Become a Member of AEC</h2>
                         </div>
                         <form action="#">
                             <div class="single-input-wrapper">
                                 <div class="single-input">
-                                    <input type="text" placeholder="Your Name">
+                                    <input type="text" placeholder="Full Name">
                                 </div>
                                 <div class="single-input">
-                                    <input type="number" placeholder="Number">
+                                    <input type="text" placeholder="Organization">
                                 </div>
                             </div>
                             <div class="single-input">
-                                <input type="email" placeholder="Your Email">
+                                <input type="email" placeholder="Email Address">
+                            </div>
+                            <div class="single-input">
+                                <input type="text" placeholder="Country">
                             </div>
                             <div class="single-input mb--30">
-                                <textarea placeholder="Type Your Message"></textarea>
+                                <textarea placeholder="Why do you want to join the coalition?"></textarea>
                             </div>
-                            <button class="rts-btn btn-primary">Submit Message</button>
+                            <button class="rts-btn btn-primary">Join Now</button>
                         </form>
                     </div>
                 </div>
@@ -851,111 +817,7 @@
 
 
 
-    <!-- rts blog area start -->
-    <div class="rts-blog-area rts-section-gapBottom pt--40 mb--310">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-12">
-                    <div class="title-style-two center">
-                        <span class="bg-content">Blog</span>
-                        <span class="pre">Blog & News</span>
-                        <h2 class="title">Recent blog post
-                        </h2>
-                    </div>
-                </div>
-            </div>
-            <div class="row g-5 mt--20">
-                <div class="col-lg-12">
-                    <div class="blog-swiper-style-one">
-                        <div class="swiper mySwiper-blog-one">
-                            <div class="swiper-wrapper">
-                                <div class="swiper-slide">
-                                    <div class="single-blog-area-one">
-                                        <p>Business Solution / <span>by David Dolean</span></p>
-                                        <a href="blog-details.php">
-                                            <h4 class="title">Building a Brand That from Market Leaders</h4>
-                                        </a>
-                                        <div class="bottom-details">
-                                            <a href="blog-details.php" class="thumbnail">
-                                                <img src="assets/images/blog/01.webp" alt="blog-area">
-                                            </a>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="swiper-slide">
-                                    <div class="single-blog-area-one">
-                                        <p>Business Solution / <span>by David Dolean</span></p>
-                                        <a href="blog-details.php">
-                                            <h4 class="title">Transforming Your Best Of Approach to Business</h4>
-                                        </a>
-                                        <div class="bottom-details">
-                                            <a href="blog-details.php" class="thumbnail">
-                                                <img src="assets/images/blog/02.webp" alt="blog-area">
-                                            </a>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="swiper-slide">
-                                    <div class="single-blog-area-one">
-                                        <p>Business Solution / <span>by David Dolean</span></p>
-                                        <a href="blog-details.php">
-                                            <h4 class="title">The quick settle tips of the new ages exist</h4>
-                                        </a>
-                                        <div class="bottom-details">
-                                            <a href="blog-details.php" class="thumbnail">
-                                                <img src="assets/images/blog/03.webp" alt="blog-area">
-                                            </a>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="swiper-slide">
-                                    <div class="single-blog-area-one">
-                                        <p>Business Solution / <span>by David Dolean</span></p>
-                                        <a href="blog-details.php">
-                                            <h4 class="title">Building a Brand That from Market Leaders</h4>
-                                        </a>
-                                        <div class="bottom-details">
-                                            <a href="blog-details.php" class="thumbnail">
-                                                <img src="assets/images/blog/01.webp" alt="blog-area">
-                                            </a>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="swiper-slide">
-                                    <div class="single-blog-area-one">
-                                        <p>Business Solution / <span>by David Dolean</span></p>
-                                        <a href="blog-details.php">
-                                            <h4 class="title">Transforming Your Best Of Approach to Business</h4>
-                                        </a>
-                                        <div class="bottom-details">
-                                            <a href="blog-details.php" class="thumbnail">
-                                                <img src="assets/images/blog/02.webp" alt="blog-area">
-                                            </a>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="swiper-slide">
-                                    <div class="single-blog-area-one">
-                                        <p>Business Solution / <span>by David Dolean</span></p>
-                                        <a href="blog-details.php">
-                                            <h4 class="title">The quick settle tips of the new ages exist</h4>
-                                        </a>
-                                        <div class="bottom-details">
-                                            <a href="blog-details.php" class="thumbnail">
-                                                <img src="assets/images/blog/03.webp" alt="blog-area">
-                                            </a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="swiper-pagination"></div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- rts blog area end -->
+ 
 
 
 
@@ -985,10 +847,7 @@
     </div>
 
     <!-- rtl btn area start -->
-    <div class="rtl-ltr-switcher-btn">
-        <span class="rtl show">View RTL</span>
-        <span class="ltr">View LTR</span>
-    </div>
+
     <!-- rtl btn area end -->
 
     <!-- progress area start -->
@@ -1003,4 +862,5 @@
 <?php include "include/scripts.php"; ?>
 </body>
 
+</html>
 </html>
