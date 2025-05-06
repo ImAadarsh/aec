@@ -6,8 +6,8 @@
                         <div class="header-top-one-wrapper">
                             <div class="left">
                                 <div class="mail">
-                                    <a href="mailto:info@asianeducationcoalition.org"><i class="fal fa-envelope"></i>
-                                        info@asianeducationcoalition.org</a>
+                                    <a href="mailto:team@ipnindia.in"><i class="fal fa-envelope"></i>
+                                        team@ipnindia.in</a>
                                 </div>
                                 <div class="working-time">
                                     <p><i class="fal fa-clock"></i> Working: 9.00am - 5.00pm</p>

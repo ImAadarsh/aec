@@ -182,100 +182,14 @@
     </div>
     <!-- rts testimoanisl area end -->
 
-    <div class="appoinment-area-start rts-section-gapBottom">
-        <div class="container">
-            <div class="row align-items-center">
-                <div class="col-lg-7">
-                    <div class="appoinment-wrapper-one-start">
-                        <div class="title-style-two mb--40 left">
-                            <span class="bg-content">Hello</span>
-                            <span class="pre">Make An Appointment</span>
-                            <h2 class="title">Request a free quote</h2>
-                        </div>
-                        <form action="#">
-                            <div class="single-input-wrapper">
-                                <div class="single-input">
-                                    <input type="text" placeholder="Your Name">
-                                </div>
-                                <div class="single-input">
-                                    <input type="text" placeholder="Your Name">
-                                </div>
-                            </div>
-                            <div class="single-input">
-                                <input type="text" placeholder="Your Name">
-                            </div>
-                            <div class="single-input mb--30">
-                                <textarea placeholder="Type Your Message"></textarea>
-                            </div>
-                            <button class="rts-btn btn-primary">Submit Message</button>
-                        </form>
-                    </div>
-                </div>
-                <div class="col-lg-5">
-                    <div class="appoinment-thumbnail">
-                        <img src="assets/images/appoinment/01.webp" alt="appoinment">
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
+<?php include "include/register.php"; ?>
 
 
 
-    <div class="rts-brand-area rts-section-gapBottom">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-12">
-                    <div class="brand-list-area-wrapper">
-                        <div class="left-paragraph">
-                            <p>Our Trusted Clients</p>
-                        </div>
-                        <div class="right-brand-area-wrapper">
-                            <div class="single-image">
-                                <img src="assets/images/brand/01.webp" alt="brand">
-                            </div>
-                            <div class="single-image">
-                                <img src="assets/images/brand/02.webp" alt="brand">
-                            </div>
-                            <div class="single-image">
-                                <img src="assets/images/brand/03.webp" alt="brand">
-                            </div>
-                            <div class="single-image">
-                                <img src="assets/images/brand/04.webp" alt="brand">
-                            </div>
-                            <div class="single-image">
-                                <img src="assets/images/brand/05.webp" alt="brand">
-                            </div>
-                            <div class="single-image">
-                                <img src="assets/images/brand/06.webp" alt="brand">
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
 
 
 
-    <div class="rts-cta-area-inner bg_image ptb--100">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-12">
-                    <div class="cta-inner-content-inner-page">
-                        <div class="left-side-content">
-                            <span>Subscribe Newsletter</span>
-                            <h3 class="title">Stay Updated with <br> the Latest News!</h3>
-                        </div>
-                        <form action="#">
-                            <input type="text" placeholder="Enter Email Address">
-                            <button class="rts-btn btn-primary btn-white">Subscribe Now</button>
-                        </form>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
+<?php include "include/email.php"; ?>
 
 
 
