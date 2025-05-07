@@ -60,7 +60,7 @@
                             </div>
                             <div class="info-wrapper">
                                 <span>Our Location</span>
-                                <a href="#">125 Town, United State</a>
+                                <a href="#">Delhi, India</a>
                             </div>
                         </div>
                     </div>

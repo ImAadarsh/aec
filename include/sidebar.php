@@ -30,7 +30,7 @@
                         <i class="fal fa-map-marker-alt"></i>
                    
                         <span>Address ::</span>
-                        <a href="#">Kathmandu, Nepal</a>
+                        <a href="#">Delhi, India</a>
                     </div>
                 </div>
             </div>

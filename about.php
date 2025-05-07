@@ -97,12 +97,12 @@
                                 <div class="information">
                                     <span>Call us anytime</span>
                                     <a href="#">
-                                        <h6 class="title">+256 56778.5678</h6>
+                                        <h6 class="title">+91 8400700199</h6>
                                     </a>
                                 </div>
                             </div>
                             <div class="sign-area">
-                                <img src="assets/images/about/sign.svg" alt="">
+                                <img src="aec.svg" alt="">
                             </div>
                         </div>
                     </div>
