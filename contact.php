@@ -67,7 +67,7 @@
                 </div>
                 <div class="col-lg-5">
                     <div class="thumbnail-contact-form">
-                        <img src="assets/images/contact/01.webp" alt="contact">
+                        <img src="images/3.png" alt="contact">
                     </div>
                 </div>
                 <div class="col-lg-3">

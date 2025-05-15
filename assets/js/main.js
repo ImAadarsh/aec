@@ -779,7 +779,7 @@
             prevEl: ".swiper-button-prev",
           },
           autoplay: {
-            delay: 2500,
+            delay: 35000,
           },
         });
       });

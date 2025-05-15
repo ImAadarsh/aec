@@ -33,7 +33,7 @@
                 </div>
                 <div class="col-lg-5">
                     <div class="appoinment-thumbnail">
-                        <img src="assets/images/appoinment/01.webp" alt="appoinment">
+                        <img src="images/4.png" alt="appoinment">
                     </div>
                 </div>
             </div>

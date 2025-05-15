@@ -155,6 +155,24 @@ body::before {
   z-index: -1;
   opacity: 0.05;
 }
+:root {
+  --aec-blue: #0A316D;
+  --aec-gold: #F7BB26;
+  --aec-gold-light: rgba(247, 187, 38, 0.15);
+  --aec-text-dark: #333;
+  --aec-text-light: #555;
+  --aec-bg-light: #fff;
+  --aec-border-light: #f0f0f0;
+}
+
+
+
+.title-style-two .bg-content {
+  color: var(--aec-gold) !important;
+}
+.title-style-three .bg-content {
+  color: var(--aec-gold) !important;
+}
 
 h1,
 h2,

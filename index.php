@@ -3,6 +3,61 @@
 
 <head>
 <?php include "include/meta.php"; ?>
+<style>
+  .rts-banner-area-two {
+    position: relative;
+    max-height: 580px;
+    height: 580px;
+    overflow: hidden;
+  }
+  .rts-banner-area-two::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5); /* Black shadow with 50% opacity */
+    z-index: 1;
+  }
+  .rts-banner-area-two .container {
+    position: relative;
+    z-index: 2;
+    height: 100%;
+    display: flex;
+    align-items: center;
+  }
+  .shape-area-start {
+    position: relative;
+    z-index: 2;
+  }
+  
+  /* Reduce banner height */
+  .banner-swiper-two .rts-banner-area-two.rts-section-gap {
+    padding-top: 60px;
+    padding-bottom: 60px;
+  }
+  
+  /* Adjust content for smaller height */
+  .banner-swiper-two .banner-inner-two-content {
+    max-width: 90%;
+    margin: 0 auto;
+  }
+  
+  .banner-swiper-two .banner-inner-two-content .disc {
+    margin-bottom: 20px;
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+  }
+  
+  /* Make title smaller to fit in reduced height */
+  .banner-swiper-two .banner-inner-two-content .title {
+    font-size: 2.5rem;
+    margin-bottom: 15px;
+  }
+</style>
 </head>
 
 <body>
@@ -14,8 +69,9 @@
         <div class="swiper mySwiper-banner-two">
             <div class="swiper-wrapper">
                 <div class="swiper-slide">
+
                     <!-- rts banner area start -->
-                    <div class="rts-banner-area-two rts-section-gap bg_image">
+                    <div class="rts-banner-area-two rts-section-gap" style="background-image: url('images/banner/1.png'); background-size: cover; background-position: center;">
                         <div class="container">
                             <div class="row">
                                 <div class="col-lg-12">
@@ -46,6 +102,43 @@
                         </div>
                     </div>
                     <!-- rts banner area end -->
+                     
+                </div>
+                <div class="swiper-slide">
+
+                    <!-- rts banner area start -->
+                    <div class="rts-banner-area-two rts-section-gap" style="background-image: url('images/banner/2.png'); background-size: cover; background-position: center;">
+                        <div class="container">
+                            <div class="row">
+                                <div class="col-lg-12">
+                                    <div class="banner-inner-two-content">
+                                        <p class="pre-title"><span>Milestone!</span> AEC Launch Event</p>
+                                        <h1 class="title">Historic Launch in Nepal</h1>
+                                        <p class="disc">
+                                            The Asian Education Coalition was officially launched at the prestigious India-Nepal Summit 2025 in Kathmandu. Educational leaders from across Asia gathered to inaugurate this landmark initiative, marking a new era of regional collaboration in education. The event featured keynote addresses, collaborative workshops, and the signing of the AEC Charter by founding member nations.
+                                        </p>
+                                        <a href="#" class="rts-btn btn-primary btn-white">Event Highlights</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="shape-area-start">
+                            <div class="shape shape-one">
+                                <img src="assets/images/banner/shape/01.webp" alt="shape-area">
+                            </div>
+                            <div class="shape shape-two">
+                                <img src="assets/images/banner/shape/02.webp" alt="shape-area">
+                            </div>
+                            <div class="shape shape-three">
+                                <img src="assets/images/banner/shape/03.webp" alt="shape-area">
+                            </div>
+                            <div class="shape shape-four">
+                                <img src="assets/images/banner/shape/04.webp" alt="shape-area">
+                            </div>
+                        </div>
+                    </div>
+                    <!-- rts banner area end -->
+                     
                 </div>
             </div>
             <div class="swiper-button-next"><i class="fa-light fa-chevron-right"></i></div>
@@ -61,9 +154,9 @@
             <div class="row align-items-center">
                 <div class="col-lg-6">
                     <div class="left-thumbnail-about-area-two">
-                        <img src="assets/images/about/04.webp" alt="about">
+                        <img src="images/3.png" alt="about">
                         <div class="small-image">
-                            <img src="assets/images/about/05.webp" alt="small">
+                            <img src="images/5.png" alt="small">
                         </div>
                         <div class="counter-about-area">
                             <h2 class="counter title"><span class="odometer" data-count="25">00</span>+
@@ -158,7 +251,7 @@
                                                         <p class="disc">
                                                             The Asian Education Coalition (AEC) unites founding members from India, Nepal, Qatar, UAE, Sri Lanka, and other Asian nations. Coordinated by the IPN Foundation, the coalition operates with rotating leadership and annual thematic working groups, ensuring diverse representation and dynamic governance. This collaborative structure empowers members to actively shape the coalition's direction and priorities, fostering a sense of ownership and shared purpose across the region.
                                                         </p>
-                                                        <a href="service-details.php" class="arrow-right">
+                                                        <a href="#" class="arrow-right">
                                                             <i class="fa-sharp fa-solid fa-arrow-right"></i>
                                                             <span>Read More</span>
                                                         </a>
@@ -175,7 +268,7 @@
                                                         <p class="disc">
                                                             By 2030, AEC aims to reach over 100,000 schools across Asia, engage 5 million educators in capacity-building, and launch more than 10 cross-border academic partnerships annually. The coalition is committed to developing a Pan-Asian Education Resource Hub and contributing to regional and global education dialogues, driving meaningful change and innovation in school education throughout the continent.
                                                         </p>
-                                                        <a href="service-details.php" class="arrow-right">
+                                                        <a href="#" class="arrow-right">
                                                             <i class="fa-sharp fa-solid fa-arrow-right"></i>
                                                             <span>Read More</span>
                                                         </a>
@@ -192,7 +285,7 @@
                                                         <p class="disc">
                                                             Members of the AEC gain access to a continental network of progressive educators, exposure to global innovations, and opportunities for AEC-endorsed certifications and awards. Priority access to research grants and pilot projects further empowers members to lead educational transformation, ensuring they remain at the forefront of best practices and emerging trends in school education across Asia.
                                                         </p>
-                                                        <a href="service-details.php" class="arrow-right">
+                                                        <a href="#" class="arrow-right">
                                                             <i class="fa-sharp fa-solid fa-arrow-right"></i>
                                                             <span>Read More</span>
                                                         </a>
@@ -290,10 +383,10 @@
                 <div class="col-lg-6">
                     <div class="thumbnail-business-area-right-two">
                         <div class="large-thumbnail">
-                            <img src="assets/images/business-goal/02.webp" alt="">
+                            <img src="images/1.png" alt="">
                         </div>
                         <div class="small-thumbnail images-r">
-                            <img src="assets/images/business-goal/01.webp" alt="">
+                            <img src="images/4.png" alt="">
                         </div>
                     </div>
                 </div>
@@ -576,7 +669,15 @@
     <!-- progress area end -->
 
 <?php include "include/scripts.php"; ?>
+
+<style>
+/* AEC Global Style Overrides - Consistent Clean Design */
+
+/* Brand Colors */
+
+
+
+</style>
 </body>
 
-</html>
 </html>

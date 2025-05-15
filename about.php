@@ -39,7 +39,7 @@
             <div class="row">
                 <div class="col-lg-12">
                     <div class="large-image-bottm-breadcrumb">
-                        <img src="assets/images/about/16.webp" alt="about">
+                        <img src="images/banner/1.png" alt="about">
                     </div>
                 </div>
             </div>
