@@ -31,7 +31,7 @@
                                     </div>
                                     <div class="single-details" dir="rtl">
                                         <a href="team-details.php">
-                                            <h5 class="title">Gautam Yadav</h5>
+                                            <h5 class="title">Gaurava Yadav</h5>
                                         </a>
                                         <p>Founder & CEO</p>
                                     </div>
@@ -56,7 +56,7 @@
                                     </div>
                                     <div class="single-details" dir="rtl">
                                         <a href="team-details.php">
-                                            <h5 class="title">Gautam Yadav</h5>
+                                            <h5 class="title">Gaurava Yadav</h5>
                                         </a>
                                         <p>Founder & CEO</p>
                                     </div>
@@ -81,7 +81,7 @@
                                     </div>
                                     <div class="single-details" dir="rtl">
                                         <a href="team-details.php">
-                                            <h5 class="title">Gautam Yadav</h5>
+                                            <h5 class="title">Gaurava Yadav</h5>
                                         </a>
                                         <p>Founder & CEO</p>
                                     </div>
@@ -106,7 +106,7 @@
                                     </div>
                                     <div class="single-details" dir="rtl">
                                         <a href="team-details.php">
-                                            <h5 class="title">Gautam Yadav</h5>
+                                            <h5 class="title">Gaurava Yadav</h5>
                                         </a>
                                         <p>Founder & CEO</p>
                                     </div>
@@ -131,7 +131,7 @@
                                     </div>
                                     <div class="single-details" dir="rtl">
                                         <a href="team-details.php">
-                                            <h5 class="title">Gautam Yadav</h5>
+                                            <h5 class="title">Gaurava Yadav</h5>
                                         </a>
                                         <p>Founder & CEO</p>
                                     </div>

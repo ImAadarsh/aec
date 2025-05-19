@@ -154,15 +154,15 @@
             <div class="row align-items-center">
                 <div class="col-lg-6">
                     <div class="left-thumbnail-about-area-two">
-                        <img src="images/3.png" alt="about">
-                        <div class="small-image">
+                        <img style="width: 100%; border-radius: 30px;" src="images/3.png" alt="about">
+                        <!-- <div class="small-image">
                             <img src="images/5.png" alt="small">
-                        </div>
-                        <div class="counter-about-area">
+                        </div> -->
+                        <!-- <div class="counter-about-area">
                             <h2 class="counter title"><span class="odometer" data-count="25">00</span>+
                             </h2>
                             <span>Years of Collaboration</span>
-                        </div>
+                        </div> -->
                     </div>
                 </div>
                 <div class="col-lg-6 mt_sm--80 mt_md--80">
@@ -332,7 +332,7 @@
 
 
     <!-- rts business goal area start -->
-    <div class="business-goal-area-2 rts-section-gap">
+    <!-- <div class="business-goal-area-2 rts-section-gap">
         <div class="container pt--30">
             <div class="row">
                 <div class="col-lg-6">
@@ -392,14 +392,14 @@
                 </div>
             </div>
         </div>
-        <!-- rts business goal area end -->
-    </div>
+
+    </div> -->
 
     <!-- rts counter up area start -->
-    <div class="rts-counter-up-area rts-section-gap counter-bg">
+    <!-- <div class="rts-counter-up-area rts-section-gap counter-bg">
         <div class="container">
             <div class="row g-5">
-                <!-- counter up area -->
+           
                 <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 col-12">
                     <div class="single-counter">
                         <div class="icon">
@@ -412,8 +412,7 @@
                         </div>
                     </div>
                 </div>
-                <!-- counter up area -->
-                <!-- counter up area -->
+
                 <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 col-12">
                     <div class="single-counter pl--10 justify-content-center two pl--30">
                         <div class="icon">
@@ -426,8 +425,7 @@
                         </div>
                     </div>
                 </div>
-                <!-- counter up area -->
-                <!-- counter up area -->
+
                 <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 col-12">
                     <div class="single-counter pl--10 justify-content-center three pl--50 pl_md--10 pl_sm--0">
                         <div class="icon">
@@ -440,8 +438,6 @@
                         </div>
                     </div>
                 </div>
-                <!-- counter up area -->
-                <!-- counter up area -->
                 <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 col-12">
                     <div class="single-counter pl--10 four">
                         <div class="icon">
@@ -454,14 +450,14 @@
                         </div>
                     </div>
                 </div>
-                <!-- counter up area -->
+
             </div>
         </div>
-    </div>
+    </div> -->
     <!-- rts counter up area end -->
 
     <!-- start gallery section -->
-    <div class="rts-gallery-area rts-section-gap gallery-bg bg_image">
+    <!-- <div class="rts-gallery-area rts-section-gap gallery-bg bg_image">
         <div class="container pt--40">
             <div class="row">
                 <div class="col-lg-12">
@@ -527,17 +523,18 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div> -->
     <!-- start gallery section -->
 
     <!-- rts team area start -->
+     <div style="margin-top: 70px;"></div>
 <?php include "include/leaders.php"; ?>
     <!-- rts team area end -->
 
 
 
     <!-- rts clients review area start -->
-    <div class="rts-client-review-area rts-section-gapBottom">
+    <!-- <div class="rts-client-review-area rts-section-gapBottom">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
@@ -618,7 +615,7 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div> -->
     <!-- rts clients review area end -->
 
 

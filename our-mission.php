@@ -52,7 +52,7 @@
                             </div>
                         </div>
                         <div class="button-wrapper mt--40" data-animation="fadeInUp" data-delay="0.4" data-duration="1.2">
-                            <a href="#" class="rts-btn btn-primary">Contact Us</a>
+                            <a href="contact.php" class="rts-btn btn-primary">Contact Us</a>
                             <div class="vedio-icone">
                                 <a class="video-play-button play-video popup-video" href="#">
                                     <span></span>
