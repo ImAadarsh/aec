@@ -67,11 +67,11 @@
                 <div class="col-lg-6">
                     <div class="thumbnail-business-area-right-two">
                         <div class="large-thumbnail">
-                            <img src="images/1.png" alt="">
+                            <img style="border-radius: 40px;" src="images/1.png" alt="">
                         </div>
-                        <div class="small-thumbnail images-r">
+                        <!-- <div class="small-thumbnail images-r">
                             <img src="images/2.png" alt="">
-                        </div>
+                        </div> -->
                     </div>
                 </div>
             </div>

@@ -33,7 +33,7 @@
                 </div>
                 <div class="col-lg-5">
                     <div class="appoinment-thumbnail">
-                        <img src="images/4.png" alt="appoinment">
+                        <img style="border-radius: 40px; border: 7px solid gold; padding: 7px;" src="images/4.png" alt="appoinment">
                     </div>
                 </div>
             </div>

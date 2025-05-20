@@ -107,7 +107,7 @@
                 <div class="swiper-slide">
 
                     <!-- rts banner area start -->
-                    <div class="rts-banner-area-two rts-section-gap" style="background-image: url('images/banner/2.png'); background-size: cover; background-position: center;">
+                    <div class="rts-banner-area-two rts-section-gap" style="background-image: url('images/banner/2.png'); background-size: cover; background-position: center; ">
                         <div class="container">
                             <div class="row">
                                 <div class="col-lg-12">

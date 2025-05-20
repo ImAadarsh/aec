@@ -36,7 +36,7 @@
                             <div class="col-md-4">
                                 <div class="single-gallery">
                                     <a href="images/gallery/1.png" class="thumbnail gallery-image">
-                                        <img src="images/gallery/1.png" alt="gallery">
+                                        <img style="border-radius: 40px; border: 7px solid gold; padding: 7px;" src="images/gallery/1.png" alt="gallery">
                                     </a>
                                     <div class="instagram">
                                         <img src="assets/images/gallery/instagram.svg" alt="instagram.svg">
@@ -46,7 +46,7 @@
                             <div class="col-md-4">
                                 <div class="single-gallery">
                                     <a href="images/gallery/2.png" class="thumbnail gallery-image">
-                                        <img src="images/gallery/2.png" alt="gallery">
+                                        <img style="border-radius: 40px; border: 7px solid gold; padding: 7px;" src="images/gallery/2.png" alt="gallery">
                                     </a>
                                     <div class="instagram">
                                         <img src="assets/images/gallery/instagram.svg" alt="instagram.svg">
@@ -56,7 +56,7 @@
                             <div class="col-md-4">
                                 <div class="single-gallery">
                                     <a href="images/gallery/3.png" class="thumbnail gallery-image">
-                                        <img src="images/gallery/3.png" alt="gallery">
+                                        <img style="border-radius: 40px; border: 7px solid gold; padding: 7px;" src="images/gallery/3.png" alt="gallery">
                                     </a>
                                     <div class="instagram">
                                         <img src="assets/images/gallery/instagram.svg" alt="instagram.svg">
@@ -66,7 +66,7 @@
                             <div class="col-md-4">
                                 <div class="single-gallery">
                                     <a href="images/gallery/4.png" class="thumbnail gallery-image">
-                                        <img src="images/gallery/4.png" alt="gallery">
+                                        <img style="border-radius: 40px; border: 7px solid gold; padding: 7px;" src="images/gallery/4.png" alt="gallery">
                                     </a>
                                     <div class="instagram">
                                         <img src="assets/images/gallery/instagram.svg" alt="instagram.svg">
@@ -76,7 +76,7 @@
                             <div class="col-md-4">
                                 <div class="single-gallery">
                                     <a href="images/gallery/5.png" class="thumbnail gallery-image">
-                                        <img src="images/gallery/5.png" alt="gallery">
+                                        <img style="border-radius: 40px; border: 7px solid gold; padding: 7px;" src="images/gallery/5.png" alt="gallery">
                                     </a>
                                     <div class="instagram">
                                         <img src="assets/images/gallery/instagram.svg" alt="instagram.svg">
@@ -86,7 +86,7 @@
                             <div class="col-md-4">
                                 <div class="single-gallery">
                                     <a href="images/gallery/6.png" class="thumbnail gallery-image">
-                                        <img src="images/gallery/6.png" alt="gallery">
+                                        <img style="border-radius: 40px; border: 7px solid gold; padding: 7px;" src="images/gallery/6.png" alt="gallery">
                                     </a>
                                     <div class="instagram">
                                         <img src="assets/images/gallery/instagram.svg" alt="instagram.svg">

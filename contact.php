@@ -67,7 +67,7 @@
                 </div>
                 <div class="col-lg-5">
                     <div class="thumbnail-contact-form">
-                        <img src="images/3.png" alt="contact">
+                        <img style="border-radius: 40px; border: 7px solid gold; padding: 7px;" src="images/3.png" alt="contact">
                     </div>
                 </div>
                 <div class="col-lg-3">
