@@ -31,9 +31,9 @@
                                     </div>
                                     <div class="single-details" dir="rtl">
                                         <a href="team-details.php">
-                                            <h5 class="title">Gaurava Yadav</h5>
+                                            <h6 class="title">Mr Gaurava Yadav</h6>
                                         </a>
-                                        <p>Founder & CEO</p>
+                                        <p>Founder & Chairman, AEC</p>
                                     </div>
                                 </div>
                             </div>
@@ -41,7 +41,7 @@
                                 <div class="team-single-one-start">
                                     <div class="team-image-area">
                                         <a href="team-details.php">
-                                            <img src="leaders/gaurava_yadav.png" alt="Business_Team_single">
+                                            <img src="leaders/2.png" alt="Business_Team_single">
                                             <div class="team-social">
                                                 <div class="main">
                                                     <i class="fal fa-plus"></i>
@@ -56,9 +56,9 @@
                                     </div>
                                     <div class="single-details" dir="rtl">
                                         <a href="team-details.php">
-                                            <h5 class="title">Gaurava Yadav</h5>
+                                            <h6 class="title">Mrs Amrita Burman</h6>
                                         </a>
-                                        <p>Founder & CEO</p>
+                                        <p>AEC Country Chairperson, India</p>
                                     </div>
                                 </div>
                             </div>
@@ -66,7 +66,7 @@
                                 <div class="team-single-one-start">
                                     <div class="team-image-area">
                                         <a href="team-details.php">
-                                            <img src="leaders/gaurava_yadav.png" alt="Business_Team_single">
+                                            <img src="leaders/3.png" alt="Business_Team_single">
                                             <div class="team-social">
                                                 <div class="main">
                                                     <i class="fal fa-plus"></i>
@@ -81,9 +81,9 @@
                                     </div>
                                     <div class="single-details" dir="rtl">
                                         <a href="team-details.php">
-                                            <h5 class="title">Gaurava Yadav</h5>
+                                            <h6 class="title">Dr Maneesh Mangal</h6>
                                         </a>
-                                        <p>Founder & CEO</p>
+                                        <p>AEC Country Chairperson, Qatar</p>
                                     </div>
                                 </div>
                             </div>
@@ -91,7 +91,7 @@
                                 <div class="team-single-one-start">
                                     <div class="team-image-area">
                                         <a href="team-details.php">
-                                            <img src="leaders/gaurava_yadav.png" alt="Business_Team_single">
+                                            <img src="leaders/4.png" alt="Business_Team_single">
                                             <div class="team-social">
                                                 <div class="main">
                                                     <i class="fal fa-plus"></i>
@@ -106,37 +106,13 @@
                                     </div>
                                     <div class="single-details" dir="rtl">
                                         <a href="team-details.php">
-                                            <h5 class="title">Gaurava Yadav</h5>
+                                            <h6 class="title">Mr Chandrayan Pradhan Shrestha</h6>
                                         </a>
-                                        <p>Founder & CEO</p>
+                                        <p>AEC Country Chairperson, Nepal</p>
                                     </div>
                                 </div>
                             </div>
-                            <div class="swiper-slide">
-                                <div class="team-single-one-start">
-                                    <div class="team-image-area">
-                                        <a href="team-details.php">
-                                            <img src="leaders/gaurava_yadav.png" alt="Business_Team_single">
-                                            <div class="team-social">
-                                                <div class="main">
-                                                    <i class="fal fa-plus"></i>
-                                                </div>
-                                                <div class="team-social-one">
-                                                    <i class="fab fa-youtube"></i>
-                                                    <i class="fab fa-twitter"></i>
-                                                    <i class="fab fa-instagram"></i>
-                                                </div>
-                                            </div>
-                                        </a>
-                                    </div>
-                                    <div class="single-details" dir="rtl">
-                                        <a href="team-details.php">
-                                            <h5 class="title">Gaurava Yadav</h5>
-                                        </a>
-                                        <p>Founder & CEO</p>
-                                    </div>
-                                </div>
-                            </div>
+                          
                            
                         </div>
                         <div class="swiper-pagination"></div>

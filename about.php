@@ -52,15 +52,15 @@
             <div class="row align-items-center">
                 <div class="col-lg-6">
                     <div class="left-thumbnail-about-area-two">
-                        <img src="assets/images/about/04.webp" alt="about">
-                        <div class="small-image">
-                            <img src="assets/images/about/05.webp" alt="small">
-                        </div>
-                        <div class="counter-about-area">
+                        <img style="width: 100%; border-radius: 30px;" src="images/3.png" alt="about">
+                        <!-- <div class="small-image">
+                            <img src="images/5.png" alt="small">
+                        </div> -->
+                        <!-- <div class="counter-about-area">
                             <h2 class="counter title"><span class="odometer" data-count="25">00</span>+
                             </h2>
                             <span>Years of Collaboration</span>
-                        </div>
+                        </div> -->
                     </div>
                 </div>
                 <div class="col-lg-6 mt_sm--80 mt_md--80">
@@ -97,7 +97,7 @@
                                 <div class="information">
                                     <span>Call us anytime</span>
                                     <a href="#">
-                                        <h6 class="title">+91 8400700199</h6>
+                                        <h6 class="title">info@ipnfoundation.org</h6>
                                     </a>
                                 </div>
                             </div>
@@ -156,11 +156,9 @@
                             </div>
                         </div>
                         <div class="button-wrapper mt--40" data-animation="fadeInUp" data-delay="0.4" data-duration="1.2">
-                            <a href="#" class="rts-btn btn-primary">Contact Us</a>
+                            <a href="contact.php" class="rts-btn btn-primary">Contact Us</a>
                             <div class="vedio-icone">
-                                <a class="video-play-button play-video popup-video" href="https://www.youtube.com/watch?v=vZE0j_WCRvI">
-                                    <span></span>
-                                </a>
+                                
                                 <div class="video-overlay">
                                     <a href="#section1" class="video-overlay-close">×</a>
                                 </div>
@@ -171,11 +169,11 @@
                 <div class="col-lg-6">
                     <div class="thumbnail-business-area-right-two">
                         <div class="large-thumbnail">
-                            <img src="assets/images/business-goal/02.webp" alt="">
+                            <img style="width: 100%; border-radius: 30px;"  src="images/2.png" alt="">
                         </div>
-                        <div class="small-thumbnail images-r">
+                        <!-- <div class="small-thumbnail images-r">
                             <img src="assets/images/business-goal/01.webp" alt="">
-                        </div>
+                        </div> -->
                     </div>
                 </div>
             </div>
@@ -183,7 +181,7 @@
     </div>
 
     <!-- rts clients review area start -->
-    <div class="rts-client-review-area rts-section-gapBottom">
+    <!-- <div class="rts-client-review-area rts-section-gapBottom">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
@@ -264,7 +262,7 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div> -->
     <!-- rts clients review area end -->
 
 

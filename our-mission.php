@@ -78,17 +78,17 @@
         </div>
         <!-- rts business goal area end -->
              <!-- rts fun facts area start -->
-    <div class="rts-fun-facts-area rts-section-gapBottom">
+    <div class="rts-fun-facts-area mt--40 rts-section-gapBottom">
         <div class="container">
             <div class="row g-5">
-                <div class="col-lg-4 col-md-6 col-sm-12" data-animation="fadeInUp" data-delay="0.2" data-duration="1.2">
+                <div style="border-radius: 25px;"  class="col-lg-4 col-md-6 col-sm-12" data-animation="fadeInUp" data-delay="0.2" data-duration="1.2">
                     <div class="signle-fun-facts-one">
                         <div class="icon">
                             <img src="assets/images/fun-facts/01.svg" alt="fun-facts">
                         </div>
-                        <h2 class="counter title"><span class="odometer" data-count="100">00</span>k+
+                        <h2 class="counter title"><span class="odometer" data-count="5">00</span>
                         </h2>
-                        <span class="bototm">Schools Across Asia</span>
+                        <span class="bototm">Asian Countries</span>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 col-sm-12" data-animation="fadeInUp" data-delay="0.4" data-duration="1.2">
@@ -96,9 +96,9 @@
                         <div class="icon">
                             <img src="assets/images/fun-facts/02.svg" alt="fun-facts">
                         </div>
-                        <h2 class="counter title"><span class="odometer" data-count="5">00</span>M
+                        <h2 class="counter title"><span class="odometer" data-count="20">00</span>k
                         </h2>
-                        <span class="bototm">Educators Engaged</span>
+                        <span class="bototm">School Leaders</span>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 col-sm-12" data-animation="fadeInUp" data-delay="0.6" data-duration="1.2">
@@ -106,9 +106,9 @@
                         <div class="icon">
                             <img src="assets/images/fun-facts/03.svg" alt="fun-facts">
                         </div>
-                        <h2 class="counter title"><span class="odometer" data-count="10">00</span>+
+                        <h2 class="counter title"><span class="odometer" data-count="5">00</span>M
                         </h2>
-                        <span class="bototm">Cross-Border Partnerships</span>
+                        <span class="bototm">Students</span>
                     </div>
                 </div>
             </div>

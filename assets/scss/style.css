@@ -6708,7 +6708,9 @@ section.main-wrapper-sticky .sticky-statement .right .arrow i {
   opacity: 1;
 }
 .team-single-one-start .single-details {
-  padding: 28px 30px 27px 30px;
+  padding: 24px 12px 27px 12px;
+  align-items: center !important;
+  text-align: center !important;
 }
 .team-single-one-start .single-details a .title {
   margin-bottom: 0px;
@@ -7143,7 +7145,7 @@ section.main-wrapper-sticky .sticky-statement .right .arrow i {
 }
 
 .rts-call-to-action-area-two {
-  background-image: url(../images/cta/02.webp);
+  background-image: url(../images/cta/cta.png);
   height: 280px;
   display: flex;
   align-items: center;
