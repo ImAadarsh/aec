@@ -15,7 +15,7 @@
                     </div>
                     <div class="info">
                         <span>Email</span>
-                        <a href="mailto:team@ipnindia.in">team@ipnindia.in</a>
+                        <a href="mailto:info@aecthinktank.com">info@aecthinktank.com</a>
                     </div>
                 </div>
                 <div class="single-contact">

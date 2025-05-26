@@ -51,7 +51,7 @@
                             </div>
                             <div class="info-wrapper">
                                 <span>Work with us</span>
-                                <a href="#">team@ipnindia.in</a>
+                                <a href="#">info@aecthinktank.com</a>
                             </div>
                         </div>
                         <div class="single-contact-info">
